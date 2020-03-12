@@ -1,4 +1,5 @@
 # Shell-Code
+(Show the Message)
 Firstly, create the Assembly language file using nano command then add the assembly language program and save it.
 
 ![Capture1](https://user-images.githubusercontent.com/43548400/76527485-4fcd9800-6495-11ea-88e3-3d0c08d85c2f.PNG)
@@ -21,7 +22,7 @@ Another method is we can dissamble and extract the code this assembly file using
 ![Capture5](https://user-images.githubusercontent.com/43548400/76537358-a9d55a00-64a3-11ea-9141-35af5b05098c.PNG)
                                               Figure 1.4
  
- Now that shell add the c progarmme and then after run that c progarmme then we can see the result of shell code that run the c programme.
+Now that shell add the c progarmme and then after run that c progarmme then we can see the result of shell code that run the c programme.
  
  ![Capture6](https://user-images.githubusercontent.com/43548400/76537653-19e3e000-64a4-11ea-96d0-d8993ef8e297.PNG)
                                               Figure 1.4
@@ -29,7 +30,7 @@ Another method is we can dissamble and extract the code this assembly file using
  ![Capture7](https://user-images.githubusercontent.com/43548400/76537740-3a139f00-64a4-11ea-83df-82c8db0c80c2.PNG)
                                               Figure 1.5
  
- Thank you..
+ Thank you..hope to add another shellcode soon..
  
 
 
